@@ -4,7 +4,7 @@ The pytorch implementation of [Wenzhuo Song, Shoujin Wang, Yan Wang, Shengsheng 
 
 ## Dependencies
 - pytorch
-- dgl
+- dgl=0.4.3post2
 - sklearn
 - progressbar
 
